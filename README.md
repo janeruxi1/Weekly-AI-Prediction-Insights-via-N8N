@@ -1,0 +1,1 @@
+# Weekly-AI-Prediction-Insights-via-N8N
